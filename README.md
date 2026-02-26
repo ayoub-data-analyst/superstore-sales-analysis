@@ -7,7 +7,7 @@
 This project focuses on cleaning and transforming raw sales data into a structured and validated dataset ready for business analysis and dashboarding.
 
 ## 🛠 Tools Used
-- Python (Pandas, NumPy)
+- Python (Pandas)
 - Jupyter Notebook
 
 ## 🔄 Project Workflow
