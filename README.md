@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 # Superstore Sales Analysis
 
 ## 📌 Project Overview
